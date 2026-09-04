@@ -43,11 +43,11 @@ This distinction allows model capability and attention management to evolve inde
 
 ## Relationship to ARCHETRON
 
-ARCHE is part of ARCHETRON's broader work on infrastructure for autonomous and intelligent systems.
+ARCHE is part of ARCHETRON, the technology ecosystem built by VOLSHi for autonomous and intelligent systems.
 
-ARCHETRON separates major system responsibilities rather than collapsing evidence, observation, governance, execution, and attention into a single opaque intelligence layer.
+Within ARCHETRON, major system responsibilities are separated rather than collapsing evidence, observation, governance, execution, and attention into a single opaque intelligence layer.
 
-ARCHE owns the attention problem within that direction.
+ARCHE owns the attention problem within that ecosystem.
 
 ## Development Status
 
