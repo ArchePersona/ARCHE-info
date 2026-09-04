@@ -2,7 +2,7 @@
 
 **Attention infrastructure for intelligent systems.**
 
-ARCHE is an ARCHETRON technology focused on a fundamental constraint of intelligent systems: cognition is finite, but demands on cognition are not.
+ARCHE is a technology within the ARCHETRON ecosystem, built by VOLSHi, focused on a fundamental constraint of intelligent systems: cognition is finite, but demands on cognition are not.
 
 An intelligent system can have extensive context, capable models, and access to powerful tools while still spending effort on the wrong thing at the wrong time. ARCHE addresses that problem by providing a dedicated attention layer concerned with where cognitive effort should be directed next.
 
@@ -61,16 +61,16 @@ Public documentation describes the purpose and externally relevant characteristi
 
 ## ARCHETRON
 
-ARCHE is an ARCHETRON technology.
+ARCHE is a technology within ARCHETRON, the VOLSHi technology ecosystem.
 
-ARCHETRON develops infrastructure for intelligent systems with deliberately separated responsibilities. ARCHE's responsibility within that broader direction is attention: determining where finite cognitive effort is most valuable.
+VOLSHi develops infrastructure for intelligent systems with deliberately separated responsibilities. ARCHE's responsibility within ARCHETRON is attention: determining where finite cognitive effort is most valuable.
 
 ## Repository Scope
 
 `ARCHE-info` is a public documentation repository intended for product information, evaluation, business reference, and other material that can be shared without exposing the private ARCHE implementation.
 
-Publication of this repository does not grant access to ARCHE source code, private systems, non-public interfaces, or ARCHETRON intellectual property.
+Publication of this repository does not grant access to ARCHE source code, private systems, non-public interfaces, or proprietary VOLSHi technology.
 
 ---
 
-Copyright © 2026 ARCHETRON. All rights reserved.
+Copyright © 2026 VOLSHi. All rights reserved.
