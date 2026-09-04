@@ -4,7 +4,7 @@
 
 Please do not disclose suspected vulnerabilities publicly through repository issues, discussions, social media, or other public channels.
 
-If you believe you have identified a security issue affecting ARCHE or an ARCHETRON-controlled ARCHE surface, contact ARCHETRON privately through an official contact channel.
+If you believe you have identified a security issue affecting ARCHE or a VOLSHi-controlled ARCHE surface, contact VOLSHi privately through an official contact channel.
 
 Where practical, include:
 
@@ -28,4 +28,4 @@ Please allow reasonable time for investigation and remediation before public dis
 
 ---
 
-Copyright © 2026 ARCHETRON. All rights reserved.
+Copyright © 2026 VOLSHi. All rights reserved.
