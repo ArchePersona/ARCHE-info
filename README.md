@@ -2,55 +2,45 @@
 
 **Attention infrastructure for intelligent systems.**
 
-ARCHE is a technology within the ARCHETRON ecosystem, built by VOLSHi, focused on a fundamental constraint of intelligent systems: cognition is finite, but demands on cognition are not.
+ARCHE is the attention engine within ARCHETRON, the technology ecosystem built by VOLSHi.
 
-An intelligent system can have extensive context, capable models, and access to powerful tools while still spending effort on the wrong thing at the wrong time. ARCHE addresses that problem by providing a dedicated attention layer concerned with where cognitive effort should be directed next.
-
-> This repository is the public information surface for ARCHE. It does not contain ARCHE source code, proprietary architecture, internal mechanisms, or private implementation details.
-
-## The Problem
-
-Modern AI systems are increasingly capable, but capability alone does not determine whether intelligence is applied well.
-
-Time, context, compute, and attention are limited. Competing demands can arrive simultaneously. Some can wait. Others can become consequential if ignored.
-
-ARCHE exists to address that allocation problem.
-
-## What ARCHE Does
-
-ARCHE provides attention infrastructure designed to help intelligent systems:
-
-- recognize competing demands for cognitive effort;
-- prioritize what warrants attention now;
-- account for changing conditions and consequences;
-- avoid spending expensive intelligence indiscriminately; and
-- direct cognitive resources toward the work that matters most.
-
-Its central question is deliberately narrow:
+Intelligence has finite time, context, compute, and attention. ARCHE exists to answer one narrow question:
 
 > **Where should the next unit of cognition be spent?**
 
-## A Deliberately Narrow Responsibility
+A capable system can still waste intelligence on the wrong thing at the wrong time. ARCHE allocates cognitive effort according to accumulated pressure, anticipated consequence, and user cost.
 
-ARCHE is not positioned as a chatbot, model provider, evidence system, workflow engine, or execution runtime.
+It does not decide what is true. It decides what deserves attention next.
+
+> This repository is the public information surface for ARCHE. It does not contain the private implementation.
+
+## What ARCHE does
+
+ARCHE provides attention infrastructure designed to help intelligent systems:
+
+- recognize competing demands for cognition;
+- prioritize what warrants attention now;
+- account for changing pressure, consequence, and user cost;
+- avoid spending expensive intelligence indiscriminately; and
+- direct cognitive resources toward the work that matters most.
+
+## A strict boundary
+
+ARCHE is not a chatbot, model provider, evidence system, workflow engine, or execution runtime.
 
 It addresses attention.
 
-That narrow responsibility is intentional. Separating attention from the systems that establish evidence, execute work, or exercise authority makes attention a distinct capability rather than an incidental behavior hidden inside a prompt or application.
+That separation matters. The system deciding what deserves cognition should remain distinct from the systems establishing evidence, observing execution, granting authority, or carrying out work.
 
-## Why It Matters
+## Why it matters
 
 As intelligent systems become more autonomous, indiscriminate model use becomes both operationally expensive and cognitively inefficient.
 
-ARCHE is being developed around a different premise: intelligence should be applied where it is warranted, when it is warranted, and with awareness that user cost and consequence matter.
+ARCHE is built around a different premise: intelligence should be applied where it is warranted, when it is warranted, with awareness that consequence and human cost matter.
 
-This creates a foundation for systems that can be more selective about when to spend cognition rather than treating every input as equally important.
+## Development status
 
-## Development Status
-
-ARCHE is under active development. The current work establishes the foundation required for a dedicated attention capability while the product and integration surfaces continue to mature.
-
-Public documentation describes the purpose and externally relevant characteristics of ARCHE only. Internal implementation details are intentionally withheld.
+ARCHE is under active development. Public documentation describes its purpose and externally relevant characteristics; private implementation details remain private.
 
 ## Documentation
 
@@ -59,17 +49,21 @@ Public documentation describes the purpose and externally relevant characteristi
 - [Support](SUPPORT.md)
 - [License](LICENSE.md)
 
-## ARCHETRON
+## Explore ARCHETRON
 
-ARCHE is a technology within ARCHETRON, the VOLSHi technology ecosystem.
+- [ARCHETRON](https://github.com/CenturionOversight/ARCHETRON) — the VOLSHi technology ecosystem
+- [ERIE](https://github.com/ArchePersona/ERIE-info) — evidence, knowledge, and investigation
+- [ELLE](https://github.com/CenturionOversight/ELLE) — external learning and developmental continuity
+- [PEEP](https://github.com/ArchePersona/PEEP-info) — execution observation
+- [RATTER](https://github.com/ArchePersona/RATTER-info) — operational telemetry
+- [ARCHEMADA](https://github.com/ArchePersona/ARCHEMADA-info) — controlled AI-assisted software construction
+- [ARCHESTRATOR](https://github.com/CenturionOversight/ARCHESTRATOR-info) — software engineering lifecycle infrastructure
+- [SHERLOCK](https://github.com/ArchePersona/SHERLOCK-info) — evidence-driven reconstruction and investigation
+- [DEVSnitcher](https://github.com/CenturionOversight/devsnitcher) — browser-edge evidence capture
 
-VOLSHi develops infrastructure for intelligent systems with deliberately separated responsibilities. ARCHE's responsibility within ARCHETRON is attention: determining where finite cognitive effort is most valuable.
+## Repository scope
 
-## Repository Scope
-
-`ARCHE-info` is a public documentation repository intended for product information, evaluation, business reference, and other material that can be shared without exposing the private ARCHE implementation.
-
-Publication of this repository does not grant access to ARCHE source code, private systems, non-public interfaces, or proprietary VOLSHi technology.
+`ARCHE-info` is a public documentation repository. Publication does not grant access to ARCHE source code, private systems, non-public interfaces, or proprietary VOLSHi technology.
 
 ---
 
