@@ -2,7 +2,7 @@
 
 **Attention infrastructure for intelligent systems.**
 
-ARCHE is the attention engine within ARCHETRON, the technology ecosystem built by VOLSHi.
+ARCHE is infrastructure within the VOLSHi span between machine intelligence and human experience. It gives the machine side durable control over where cognition is spent, so attention policy remains stable even when the model providing intelligence changes.
 
 Intelligence has finite time, context, compute, and attention. ARCHE exists to answer one narrow question:
 
