@@ -1,6 +1,6 @@
 # ARCHE
 
-**Attention infrastructure for intelligent systems.**
+**Persistent attention infrastructure for autonomous intelligence.**
 
 ARCHE is infrastructure within the VOLSHi span between machine intelligence and human experience. It gives the machine side durable control over where cognition is spent, so attention policy remains stable even when the model providing intelligence changes.
 
@@ -40,7 +40,7 @@ ARCHE is built around a different premise: intelligence should be applied where 
 
 ## Development status
 
-ARCHE is under active development. Public documentation describes its purpose and externally relevant characteristics; private implementation details remain private.
+ARCHE is an active VOLSHi engine under continued development. Its pressure, consequence, and user-cost model establishes a persistent attention boundary outside replaceable model backends. Development continues to extend that infrastructure while preserving the separation between attention allocation and the systems responsible for evidence, authority, and execution.
 
 ## Documentation
 
